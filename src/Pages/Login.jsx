@@ -11,7 +11,7 @@ const Login = () => {
       </div>
       <div className="">
       <label htmlFor="">Enter Your password:</label>
-            <input type="password" placeholder="**********" className="p-2 rounded" />
+            <input type="password" placeholder="Enter Password" className="p-2 rounded" />
 
         </div>
         <button className="login_btn  bg-cyan-300  mt-2 w-[100px] rounded h-[50px]">Login</button>
